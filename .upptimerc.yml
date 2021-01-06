@@ -13,10 +13,9 @@ sites:
   - name: chat
     url: https://chat.error.work
   - name: talk
-    method: HEAD
     url: https://talk.error.work
-  - name: Secret Site
-    url: $SECRET_SITE
+  - name: Tools
+    url: https://tool.error.work
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
@@ -24,9 +23,9 @@ status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: 膨胀的网站状态监控
+  introTitle: "自动化监控膨胀系列网站可用性状态。"
+  introMessage: 以下是目前各站点最新的存活状态
   navbar:
     - title: Status
       href: /
