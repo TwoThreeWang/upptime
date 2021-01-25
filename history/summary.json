@@ -23,11 +23,11 @@
     "icon": "https://favicons.githubusercontent.com/api.error.work",
     "slug": "api",
     "status": "up",
-    "uptime": "99.76%",
+    "uptime": "99.77%",
     "uptimeDay": "95.50%",
     "uptimeWeek": "99.36%",
-    "uptimeMonth": "99.76%",
-    "uptimeYear": "99.76%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.77%",
     "time": 318,
     "timeDay": 393,
     "timeWeek": 347,
@@ -43,11 +43,11 @@
     "icon": "https://favicons.githubusercontent.com/wiki.error.work",
     "slug": "wiki",
     "status": "up",
-    "uptime": "72.92%",
+    "uptime": "73.21%",
     "uptimeDay": "91.19%",
     "uptimeWeek": "66.58%",
-    "uptimeMonth": "72.92%",
-    "uptimeYear": "72.92%",
+    "uptimeMonth": "73.21%",
+    "uptimeYear": "73.21%",
     "time": 280,
     "timeDay": 315,
     "timeWeek": 306,
@@ -87,9 +87,9 @@
     "url": "https://talk.error.work",
     "icon": "https://favicons.githubusercontent.com/talk.error.work",
     "slug": "talk",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -98,16 +98,18 @@
     "timeWeek": 434,
     "timeMonth": 302,
     "timeYear": 302,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-25": 0
+    }
   },
   {
     "name": "Tools",
     "url": "https://tool.error.work",
     "icon": "https://favicons.githubusercontent.com/tool.error.work",
     "slug": "tools",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -116,6 +118,8 @@
     "timeWeek": 317,
     "timeMonth": 261,
     "timeYear": 261,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-25": 0
+    }
   }
 ]
