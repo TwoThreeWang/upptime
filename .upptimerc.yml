@@ -16,6 +16,8 @@ sites:
     url: https://talk.error.work
   - name: Tools
     url: https://tool.error.work
+  - name: Movie
+    url: https://v.error.work
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
