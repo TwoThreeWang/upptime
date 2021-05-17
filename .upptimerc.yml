@@ -20,6 +20,8 @@ sites:
     url: https://talk.error.work
   - name: Tools
     url: https://tool.error.work
+  - name: CDN
+    url: https://cdn.error.work
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
